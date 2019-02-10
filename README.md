@@ -1,6 +1,7 @@
 # bs-auth0-js
 
-[![npm](https://img.shields.io/npm/v/bs-auth0-js.svg)](https://www.npmjs.com/package/bs-auth0-js)
+[![npm](https://img.shields.io/npm/v/bs-auth0-js.svg)](https://www.npmjs.com/package/bs-auth0-js) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mscharley/bs-auth0-js.svg)](https://greenkeeper.io/)
 
 **Source:** [https://github.com/mscharley/bs-auth0-js](https://github.com/mscharley/bs-auth0-js)  
 **Author:** Matthew Scharley  
