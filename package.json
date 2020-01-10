@@ -35,6 +35,6 @@
   "devDependencies": {
     "auth0-js": "^9.8.1",
     "bs-platform": "^4.0.7",
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^16.0.1"
   }
 }
